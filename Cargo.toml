@@ -7,7 +7,7 @@ authors = ["Ernest1338"]
 description = "Print debug messages if the DEBUG environment variable is set"
 repository = "https://github.com/Ernest1338/debug-message"
 homepage = "https://github.com/Ernest1338/debug-message"
-documentation = "https://docs.rs/debug"
+documentation = "https://docs.rs/debug-message"
 readme = "README.md"
 keywords = ["debug", "print"]
 
