@@ -1,11 +1,11 @@
-# Debug lib
+# Debug-message
 
 Print debug messages if the DEBUG environment variable is set
 
 # Usage
 
 ```rust
-use debug::debug;
+use debug_message::debug;
 
 fn main() {
     println!("this will be printed every time");

@@ -1,4 +1,4 @@
-use debug::debug;
+use debug_message::debug;
 
 #[derive(Debug)]
 struct Struct1 {
