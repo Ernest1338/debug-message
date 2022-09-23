@@ -1,0 +1,14 @@
+[package]
+name = "debug"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Ernest1338"]
+description = "Print debug messages if the DEBUG environment variable is set"
+repository = "https://github.com/Ernest1338/debug-lib"
+homepage = "https://github.com/Ernest1338/debug-lib"
+documentation = "https://docs.rs/debug"
+readme = "README.md"
+keywords = ["debug", "print"]
+
+[dependencies]
