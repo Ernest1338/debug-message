@@ -4,7 +4,7 @@
 /// # Example
 ///
 /// ```no_run
-/// use debug-message::debug;
+/// use debug_message::debug;
 ///
 /// println!("this will be printed every time");
 /// debug("this will only be printed if the DEBUG env var is set");
